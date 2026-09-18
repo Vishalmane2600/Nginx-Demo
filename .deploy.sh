@@ -36,4 +36,4 @@ echo "✅ Deployment completed successfully!"
 echo "=================================="
 
 echo ""
-echo "Application URL:"
+echo "Application URL:http://http://54.243.17.232"
