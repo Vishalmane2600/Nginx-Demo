@@ -222,11 +222,11 @@ function App() {
             <button className="close-btn" onClick={() => setSurprise(false)} aria-label="Close surprise"><X /></button>
             <div className="modal-heart"><Heart fill="currentColor" /></div>
             <div className="section-kicker">just between us</div>
-            <h2>You are one of my<br /><em>favorite parts of life.</em></h2>
+            <h2>You are the <br /><em>Best part of my life.</em></h2>
             <p>
-              I don't need a perfect moment to tell you how much you mean to me.
-              I'm grateful for the laughs, the quiet moments, the random conversations,
-              and every memory still waiting for us.
+              Tula kiti mahatvachi ahes he sangnyasathi mala perfect moment chi garaj nahi. 
+              Tujyasobatle hasne, shant moments, random gappa aani aaplya sundar aathvani yanchyasathi mi khup grateful aahe.
+              Aani pudhehi aaplyala asech khup sundar moments ekatra jagayche aahet ❤️.
             </p>
             <strong>Happy birthday, beautiful. ♡</strong>
           </div>
