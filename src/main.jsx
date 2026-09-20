@@ -25,7 +25,7 @@ const person = {
 
 const memories = [
   { date: 'The beginning', title: 'When our story started', text: 'Some moments arrive quietly, and somehow become part of your favorite memories.', icon: '♡' },
-  { date: 'Little things', title: 'The ordinary became special', text: 'Coffee, conversations, silly laughs — the small things I never want to take for granted.', icon: '✦' },
+  { date: 'Little things', title: 'The ordinary became special', text: 'Chai, conversations, silly laughs — the small things I never want to take for granted.', icon: '✦' },
   { date: 'Today', title: 'Celebrating you', text: 'A new chapter, more places to see, more memories to make, and so many reasons to smile.', icon: '♥' },
 ]
 
